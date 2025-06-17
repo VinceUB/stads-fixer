@@ -1,4 +1,6 @@
-console.log("hello");
+// This script is probably too short to be protected by copyright.
+
+console.log("STADS Fixer is up and running");
 
 document.querySelector('.ButtonUp').setAttribute('onmousedown',
 	"let bn = document.querySelector('#brugernavn');" +
