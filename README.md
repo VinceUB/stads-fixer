@@ -9,9 +9,9 @@ the domain.
 How?
 ----
 Reprogrammed the login button, so that before it submits all your 
-login details, it snips off the login's domain. It's stuffed but it 
+login details, it snips off the login's domain. It's scuffed but it 
 works.
 
 Why is this even necessary?
 ---------------------------
--\\\_(.\_.)\_/-
+`-\_(._.)_/-`

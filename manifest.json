@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "STADS fixer",
-	"version": "1.0",
+	"version": "1.0.1",
 
 	"description": "Fixes STADS by allowing you to log in with domain",
 	"icons": {
